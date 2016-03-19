@@ -26,6 +26,16 @@
       "color": "champgne", 
       "purchased": false, 
       "description": "Want a car that'll get you to Point A to Point B, and maybe not much further? Here you go."
+    }, 
+    {
+      "make": "Dodge", 
+      "model": "Dakota", 
+      "year": "2000", 
+      "price": "3999", 
+      "color": "white", 
+      "purchased": false, 
+      "description": "This truck just randomly showed up yesterday, we think a ghost used to own it."
     }
   ]
 }
+
