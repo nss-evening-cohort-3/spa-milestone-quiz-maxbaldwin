@@ -8,6 +8,24 @@
       "color": "FireBrick",
       "purchased": false,
       "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "Fit", 
+      "year": "2011", 
+      "price": "12999", 
+      "color": "white", 
+      "purchased": false, 
+      "description": "Has been in two wrecks, but with the body work done you would never know!"
+    },
+    {
+      "make": "Mittsubishi", 
+      "model": "Lancer", 
+      "year": "2004", 
+      "price": "5999", 
+      "color": "champgne", 
+      "purchased": false, 
+      "description": "Want a car that'll get you to Point A to Point B, and maybe not much further? Here you go."
     }
   ]
 }
