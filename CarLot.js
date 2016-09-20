@@ -1,4 +1,5 @@
 "use strict";
+
 let CarLot = (function () {
   let inventory = [];
   return {
